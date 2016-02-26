@@ -1,0 +1,36 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0a1ad2b0-6063-451c-af21-6de84011dad0" name="php-htmldiff" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="c2dfcc68-9e80-4541-86ca-f66bbd596dc3" name="hannahdeason.com" url="http://hd.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="c7f3a930-e8cc-447f-b27a-af50bfdeed5e" name="vote.dev" url="http://vote.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="a4971da4-3bf4-4df2-87f3-3d76c82eccfc" name="vote-api.dev" url="http://vote-api.dev:8080">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="bb38738e-a909-4f3a-b714-f4e9e8e5412a" name="greenpsf.dev" url="http://greenpsf.dev:8080">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e8788620-60b6-4433-afaa-dd1a604a95df" name="oauth-example" url="http://oauth-example.dev/web">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="5eedeb33-5acd-4393-a4a5-0c8e52a445ff" name="broadcat-library" url="http://broadcat-library.dev:8080">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="4bd079af-1f8d-4ce5-97fc-948c9d8959b0" name="poy-api" url="http://poy-api.dev:8080">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3de8df87-e691-420e-b642-82e4861fa8a3" name="gulp" url="http://localhost:3000">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="d1846936-c011-44b4-bfd3-e09b3df425b6" name="HtmlDiffBundle" url="http://HtmlDiffBundle.dev:8080">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

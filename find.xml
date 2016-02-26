@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Directory '/Users/JoshSchroeder/Sites/php-htmldiff/lib/Caxy/HtmlDiff/Table'" />
+    <option name="defaultScopeName" value="Directory '/Users/JoshSchroeder/Sites/php-htmldiff/lib/Caxy/HtmlDiff/Table'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/JoshSchroeder/Sites/php-htmldiff/lib/Caxy/HtmlDiff/Table'" />
+  </component>
+</application>
