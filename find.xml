@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '/Users/JoshSchroeder/Sites/php-htmldiff/lib/Caxy/HtmlDiff/HtmlDiffConfig.php'" />
-    <option name="defaultScopeName" value="File '/Users/JoshSchroeder/Sites/php-htmldiff/lib/Caxy/HtmlDiff/HtmlDiffConfig.php'" />
+    <option name="customScope" value="File '/Users/JoshSchroeder/Sites/HtmlDiffBundle/Service/HtmlDiffService.php'" />
+    <option name="defaultScopeName" value="File '/Users/JoshSchroeder/Sites/HtmlDiffBundle/Service/HtmlDiffService.php'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/JoshSchroeder/Sites/php-htmldiff/lib/Caxy/HtmlDiff/HtmlDiffConfig.php'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/JoshSchroeder/Sites/HtmlDiffBundle/Service/HtmlDiffService.php'" />
   </component>
 </application>
