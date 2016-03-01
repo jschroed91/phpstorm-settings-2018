@@ -31,6 +31,9 @@
       <webServer id="d1846936-c011-44b4-bfd3-e09b3df425b6" name="HtmlDiffBundle" url="http://HtmlDiffBundle.dev:8080">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="96c5187a-d4a8-4d9f-93bf-62e99ca21fed" name="broadcat-ui" url="http://broadcat-ui.dev:8080">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
