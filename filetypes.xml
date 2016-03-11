@@ -1,7 +1,15 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping ext="rdfa" type="HTML" />
+      <mapping ext="profile" type="PHP" />
       <mapping ext="ctp" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="Capfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
