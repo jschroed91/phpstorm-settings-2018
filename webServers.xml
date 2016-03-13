@@ -13,6 +13,9 @@
       <webServer id="320b7a76-4099-458a-95eb-dd4a21dbdccc" name="symfony-oauth-example" url="http://oauth-example.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="a275aedb-846a-4b03-810f-356505905e86" name="node" url="http://localhost:3000">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
