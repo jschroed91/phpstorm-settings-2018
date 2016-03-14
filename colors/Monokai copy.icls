@@ -1,7 +1,7 @@
 <scheme name="Monokai copy" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
@@ -858,40 +858,16 @@
         <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.DEFINITION_TERM">
-      <value />
-    </option>
     <option name="MULTIMARKDOWN.HRULE">
       <value>
         <option name="FOREGROUND" value="ba" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.HTML_BLOCK">
-      <value />
-    </option>
-    <option name="MULTIMARKDOWN.INLINE_HTML">
-      <value />
-    </option>
-    <option name="MULTIMARKDOWN.QUOTE">
-      <value />
-    </option>
     <option name="MULTIMARKDOWN.SPECIAL_TEXT">
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="MULTIMARKDOWN.TABLE_CAPTION">
-      <value />
-    </option>
-    <option name="MULTIMARKDOWN.TABLE_CELL_REVEN_CEVEN">
-      <value />
-    </option>
-    <option name="MULTIMARKDOWN.TABLE_CELL_REVEN_CODD">
-      <value />
-    </option>
-    <option name="MULTIMARKDOWN.TABLE_CELL_RODD_CEVEN">
-      <value />
     </option>
     <option name="MULTIMARKDOWN.TABLE_COLUMN_EVEN">
       <value>
