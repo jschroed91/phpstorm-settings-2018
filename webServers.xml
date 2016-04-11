@@ -19,6 +19,9 @@
       <webServer id="58abcef0-23a8-43d4-9274-1d924975433e" name="react-demo" url="http://react-demo.dev:8080">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f38ec3bb-e41a-46dc-8bff-df0348c98ffb" name="react-boilerplate" url="http://react-boilerplate.dev:8080">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
