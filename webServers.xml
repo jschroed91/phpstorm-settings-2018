@@ -22,6 +22,9 @@
       <webServer id="f38ec3bb-e41a-46dc-8bff-df0348c98ffb" name="react-boilerplate" url="http://react-boilerplate.dev:8080">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="48f7c817-7afe-4347-abc1-f076780af856" name="jira-tools" url="http://jira-tools.dev:8080">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
