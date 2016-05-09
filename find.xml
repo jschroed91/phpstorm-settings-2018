@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/var/www/php-htmldiff/lib/Caxy/HtmlDiff/DiffCache.php'" />
-    <option name="defaultScopeName" value="File '/var/www/php-htmldiff/lib/Caxy/HtmlDiff/DiffCache.php'" />
-    <option name="SEARCH_SCOPE" value="File '/var/www/php-htmldiff/lib/Caxy/HtmlDiff/DiffCache.php'" />
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Current File" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
