@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '/var/www/php-htmldiff/lib/Caxy/HtmlDiff/DiffCache.php'" />
     <option name="defaultScopeName" value="File '/var/www/php-htmldiff/lib/Caxy/HtmlDiff/DiffCache.php'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '/var/www/php-htmldiff/lib/Caxy/HtmlDiff/DiffCache.php'" />
     <recentFileMasks>
       <mask>*.properties</mask>
