@@ -1,11 +1,8 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="JavaScriptLibraryMappings">
-        <includedPredefinedLibrary name="ECMAScript 6" />
-      </component>
-      <component name="JavaScriptSettings">
-        <option name="languageLevel" value="ES6" />
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
       </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
@@ -18,10 +15,7 @@
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="JavaScriptPreferStrict" value="false" />
-        <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+        <property name="last_opened_file_path" value="/var/www" />
       </component>
     </defaultProject>
   </component>
