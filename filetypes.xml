@@ -2,18 +2,19 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="rdfa" type="HTML" />
-      <mapping ext="theme" type="PHP" />
-      <mapping ext="profile" type="PHP" />
-      <mapping ext="ctp" type="PHP" />
       <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
       <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping ext="ctp" type="PHP" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="Capfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern=".bootstraprc" type="YAML" />
     </extensionMap>
   </component>
