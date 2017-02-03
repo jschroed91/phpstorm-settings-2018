@@ -10,4 +10,7 @@
     </option>
     <option name="cloneParentDir" value="/var/www" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="/var/www/correlation-tool-ui" />
+  </component>
 </application>
