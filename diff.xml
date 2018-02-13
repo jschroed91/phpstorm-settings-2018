@@ -1,32 +1,18 @@
 <application>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
-      <entry key="ApplyPatch">
-        <PlaceSettings />
-      </entry>
-      <entry key="ChangesView">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
-      <entry key="CommitDialog">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
       <entry key="Default">
         <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
-          <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
-          <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
       <entry key="DirDiff">
-        <PlaceSettings />
-      </entry>
-      <entry key="Merge">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
