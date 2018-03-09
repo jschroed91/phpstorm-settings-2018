@@ -1,13 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="12467218-30b4-467f-a74d-50b1b75a7a90" name="pactiv" url="http://172.20.0.197:5000">
-        <fileTransfer host="172.20.0.197" port="22" rootFolder="/home/caxy/pactiv" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
+      <webServer id="5fce9b51-0cd0-4182-b3fe-b01fbe085164" name="localhost:3000" url="http://localhost:3000">
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>
