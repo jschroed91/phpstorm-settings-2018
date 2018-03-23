@@ -1,0 +1,21 @@
+<templateSet group="JavaScript React">
+  <template name="comp" value="import React from 'react';&#10;import PropTypes from 'prop-types';&#10;&#10;function $NAME$({}) {&#10;  return (&#10;      &lt;div&gt;&#10;        $END$&#10;      &lt;/div&gt;&#10;  );&#10;}&#10;&#10;$NAME$.propTypes = {&#10;  &#10;};&#10;&#10;export default $NAME$;&#10;" description="React stateless component" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="ComponentName" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="styled" value="import styled from 'styled-components';&#10;&#10;export default styled.$ELE$`&#10;    $END$&#10;`;" description="insert styled component" toReformat="false" toShortenFQNames="true">
+    <variable name="ELE" expression="" defaultValue="div" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="sty" value="const $NAME$ = styled.$ELE$`&#10;    $END$&#10;`;" description="insert inline styled" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="StyledComp" alwaysStopAt="true" />
+    <variable name="ELE" expression="" defaultValue="div" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
