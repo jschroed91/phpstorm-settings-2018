@@ -4,6 +4,14 @@
       <webServer id="5fce9b51-0cd0-4182-b3fe-b01fbe085164" name="localhost:3000" url="http://localhost:3000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="accc4706-5422-4359-a3a5-6bbb1ea69728" name="localdesktop" url="http://10.0.0.72">
+        <fileTransfer host="10.0.0.72" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
